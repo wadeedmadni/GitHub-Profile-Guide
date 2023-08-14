@@ -123,11 +123,18 @@ Notice the HEX code below:
 ```Markdown
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wadeed.madni)](https://www.instagram.com/wadeed.madni)
 ```
-
+#### Result 👇
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wadeed.madni)](https://www.instagram.com/wadeed.madni)
 
 
 You can visit [Simple Icons](https://simpleicons.org/), type the name of icon you are making and copy its HEX code and paste it in the link.
+
+### 6. Refrence Github Profiles
+1. https://github.com/DiptoChakrabarty
+2. https://github.com/kaiwalyakoparkar
+3. https://github.com/RemcoHalman
+4. https://github.com/JoykishanSharma
+
 
 ### Made with ❤️ by [Wadeed Madni](www.github.com/wadeedmadni)
 
